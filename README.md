@@ -1,2 +1,2 @@
 # Java
-Contains of codes of various problem statements
+Contains codes of various problem statements
